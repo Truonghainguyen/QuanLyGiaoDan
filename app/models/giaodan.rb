@@ -1,0 +1,3 @@
+class Giaodan < ActiveRecord::\
+	
+end

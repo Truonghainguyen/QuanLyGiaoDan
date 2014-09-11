@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ruatoi: MyString
+  ruocle: MyString
+  themsuc: MyString
+  honphoi: MyString
+  truyenchucthanh: MyString
+
+two:
+  ruatoi: MyString
+  ruocle: MyString
+  themsuc: MyString
+  honphoi: MyString
+  truyenchucthanh: MyString

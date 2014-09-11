@@ -1,0 +1,4 @@
+== README ==
+Phan mem quan ly giao dan voi cac chuc nang chinh :them, xoa, sua, tim kiem thong tin ve 1 giao dan
+
+

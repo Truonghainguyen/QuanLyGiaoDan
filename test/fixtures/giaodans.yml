@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tenthanh: MyString
+  hovaten: MyString
+  gioitinh: MyString
+  ngaysinh: 2014-09-10
+  ngayruatoi: 2014-09-10
+  ngayxungtoiruocle: 2014-09-10
+  ngaythemsuc: 2014-09-10
+  ngaylapgiadinh: 2014-09-10
+  dienthoai: MyString
+  ngaymat: 2014-09-10
+  noisinh: MyString
+  noimat: MyString
+  trinhdovanhoa: MyString
+  nghenghiep: MyString
+  ghichu: MyString
+
+two:
+  tenthanh: MyString
+  hovaten: MyString
+  gioitinh: MyString
+  ngaysinh: 2014-09-10
+  ngayruatoi: 2014-09-10
+  ngayxungtoiruocle: 2014-09-10
+  ngaythemsuc: 2014-09-10
+  ngaylapgiadinh: 2014-09-10
+  dienthoai: MyString
+  ngaymat: 2014-09-10
+  noisinh: MyString
+  noimat: MyString
+  trinhdovanhoa: MyString
+  nghenghiep: MyString
+  ghichu: MyString
